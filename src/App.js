@@ -1,20 +1,42 @@
- import Content from './components/content';
-import Navigation from './components/navigation';
-//import Question from './components/question';
+import React, { Component } from 'react'
+import Answers from './components/Answers';
+import Nav from "./components/Nav";
+import birdsData from "./data";
 
 
 
-function App() {
+export default class App extends Component {
+  constructor(){
+    super()
+    // this.handleSetAswer=this.handleSetAswer.bind(this)
+    this.state={
+    pickedAnswer: birdsData[0]
+  }
+
+  }
 
 
-  return (
-    <div className="App">
+
+// handleSetAswer(answerNav,ind){
+//    let fhdshdfhd = birdsData[ind].find(x=>x.nav === answerNav);
+//     this.setState({
+//     pickedAnswer:fhdshdfhd
+//   })
+// }
+  render() {
+    const {pickedAnswer} = this.state
+    const handleSetAswer=this.handleSetAswer
+    return (
+
+          <div className="App">
 <h1>Songbird</h1>
-<Navigation/>
-{/* <Question list={li}/> */}
- <Content/>
+<Nav data={birdsData} handleSetAswer={handleSetAswer}/>
+<Answers data={pickedAnswer} />
     </div>
-  );
+
+    )
+  }
+
 }
 
-export default App;
+

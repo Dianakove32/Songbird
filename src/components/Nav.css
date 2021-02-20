@@ -1,0 +1,14 @@
+.nav{
+
+}
+.Nav-ul{
+    background-color: rgb(9, 131, 60);
+display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+
+}
+.Nav-ul-item{
+    margin: 10px;
+    color: white;
+}
