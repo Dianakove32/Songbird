@@ -13,12 +13,12 @@ export default class Nav extends Component {
       <ul className="Nav-ul">
         {data.map((el, index) => {
           return (
-            <li className="Nav-ul-item" onClick={() => handleSetAnswer(index)}>
-              {el[0].nav}
+            <li className="Nav-ul-item" onClick={() =>  handleSetAnswer(index)}>
+              {el[0].nav}{el.id}
             </li>
           );
         })}
-        {}
+
       </ul>
     );
   }

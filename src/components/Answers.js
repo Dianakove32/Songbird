@@ -5,14 +5,19 @@ export default class Answers extends Component {
   constructor(props) {
     super(props);
   }
+
+    // onClick(cfgh){
+    //   console.log(cfgh )
+    // }
   render() {
-    const { data } = this.props;
-    console.log(data);
+    const { data,handleInfo   } = this.props;
+
 
     return (
       <div>
         {data.map((el) => {
-          return <div>{el.name} </div>;
+          return <div onClick= {()=> handleInfo(el.id)}
+           >{el.name} </div>;
         })}
       </div>
     );

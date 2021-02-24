@@ -69,7 +69,7 @@ const birdsData = [
   ],
   [
     {
-      id: 1,
+      id: 11,
       nav: "Воробьиные",
       name: "Воробей",
       species: "Passer domesticus",
@@ -80,7 +80,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/CXFHOPIVAS/XC503224-191020_0134.mp3",
     },
     {
-      id: 2,
+      id: 12,
       nav: "Воробьиные",
       name: "Грач",
       species: "Corvus frugilegus",
@@ -91,7 +91,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/RLRHCUIPIY/XC512540-gawron%20Suble%2019.12.19%20%2012.35.mp3",
     },
     {
-      id: 3,
+      id: 13,
       nav: "Воробьиные",
       name: "Галка",
       species: "Coloeus monedula",
@@ -102,7 +102,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC510498-Coloeus%20monedula_2019.11.13_11.55_01.mp3",
     },
     {
-      id: 4,
+      id: 14,
       nav: "Воробьиные",
       name: "Певчий дрозд",
       species: "Turdus philomelos",
@@ -113,7 +113,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC513326-190704_1146_TF-Glogow.mp3",
     },
     {
-      id: 5,
+      id: 15,
       nav: "Воробьиные",
       name: "Сорока",
       species: "Pica pica",
@@ -124,7 +124,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC500868-Pica%20pica2019.08.23_09.18_02.mp3",
     },
     {
-      id: 6,
+      id: 16,
       nav: "Воробьиные",
       name: "Сойка",
       species: "Garrulus glandarius",
@@ -137,7 +137,7 @@ const birdsData = [
   ],
   [
     {
-      id: 1,
+      id: 21,
       nav: "Лесные птицы",
       name: "Зяблик",
       species: "Fringilla coelebs",
@@ -148,7 +148,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC512407-150622_03%20zi%C4%99ba%20%282%29.mp3",
     },
     {
-      id: 2,
+      id: 22,
       nav: "Лесные птицы",
       name: "Клёст",
       species: "Loxia curvirostra",
@@ -159,7 +159,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/OTVUCEGYZN/XC495381-Kruisbek%20roep%20NHD%20290619.mp3",
     },
     {
-      id: 3,
+      id: 23,
       nav: "Лесные птицы",
       name: "Горлица",
       species: "Streptopelia turtur",
@@ -170,7 +170,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC324106-Turkawka_Streptopelia_turtur_Poland_Jarek_Matusiak_2011625_07.mp3",
     },
     {
-      id: 4,
+      id: 24,
       nav: "Лесные птицы",
       name: "Дятел",
       species: "Dendrocopos major",
@@ -181,7 +181,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC518928-AB-017%20dzi%C4%99cio%C5%82%20du%C5%BCy%20agresja%20%282%29.mp3",
     },
     {
-      id: 5,
+      id: 25,
       nav: "Лесные птицы",
       name: "Удод",
       species: "Upupa epops",
@@ -192,7 +192,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC477326-dudek%20%282%29.mp3",
     },
     {
-      id: 6,
+      id: 26,
       nav: "Лесные птицы",
       name: "Стриж",
       species: "Apus apus",
@@ -205,7 +205,7 @@ const birdsData = [
   ],
   [
     {
-      id: 1,
+      id: 31,
       nav: "Певчие птицы",
       name: "Жаворонок",
       species: "Alauda arvensis",
@@ -216,7 +216,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC462158-Skowronek_Alauda_arvensis_Poland_Jarek_Matusiak_%20-006%20skowronek%20%282%29.mp3",
     },
     {
-      id: 2,
+      id: 32,
       nav: "Певчие птицы",
       name: "Соловей",
       species: "Luscinia luscinia",
@@ -227,7 +227,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/HILVWSADVL/XC513809-R07_0052%20Thrush%20Nightingale%20Snipe.mp3",
     },
     {
-      id: 3,
+      id: 33,
       nav: "Певчие птицы",
       name: "Скворец",
       species: "Sturnus vulgaris",
@@ -238,7 +238,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC515519-2020.01.01_17.24_01.MP3",
     },
     {
-      id: 4,
+      id: 34,
       nav: "Певчие птицы",
       name: "Иволга",
       species: "Oriolus oriolus",
@@ -249,7 +249,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/GYAUIPUVNM/XC491801-2019.07.07_06.28_01.mp3",
     },
     {
-      id: 5,
+      id: 35,
       nav: "Певчие птицы",
       name: "Свиристель",
       species: "Bombycilla garrulus",
@@ -260,7 +260,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/ZNCDXTUOFL/XC517421-AB-004%20%282%29%20jemio%C5%82uszka.mp3",
     },
     {
-      id: 6,
+      id: 36,
       nav: "Певчие птицы",
       name: "Щегол",
       species: "Carduelis carduelis",
@@ -273,7 +273,7 @@ const birdsData = [
   ],
   [
     {
-      id: 1,
+      id: 41,
       nav: "Хищные птицы",
       name: "Орёл",
       species: "Aquila nipalensis",
@@ -284,7 +284,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/KTBTZAHSXF/10_Aquila_nipalensis_al02D85.mp3",
     },
     {
-      id: 2,
+      id: 42,
       nav: "Хищные птицы",
       name: "Коршун",
       species: "Milvus migrans",
@@ -295,7 +295,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/SDPCHKOHRH/XC485740-2019-06-22%20Selenga%20Milan%20brun%20cris%20de%20quemandage%203.mp3",
     },
     {
-      id: 3,
+      id: 43,
       nav: "Хищные птицы",
       name: "Лунь",
       species: "Circus cyaneus",
@@ -306,7 +306,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/BLMSIUFTFU/XC513498-190709_1175_Cir.cyan-f.mp3",
     },
     {
-      id: 4,
+      id: 44,
       nav: "Хищные птицы",
       name: "Сокол",
       species: "Falco peregrinus",
@@ -317,7 +317,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC496049-Pilgrimsfalk_06.mp3",
     },
     {
-      id: 5,
+      id: 45,
       nav: "Хищные птицы",
       name: "Ястреб",
       species: "Accipiter gentilis",
@@ -328,7 +328,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/MMEJYLOPDO/XC512740-Duvh%C3%B6k_09.mp3",
     },
     {
-      id: 6,
+      id: 46,
       nav: "Хищные птицы",
       name: "Филин",
       species: "Bubo bubo",
@@ -341,7 +341,7 @@ const birdsData = [
   ],
   [
     {
-      id: 1,
+      id: 51,
       nav: "Морские птицы",
       name: "Альбатрос",
       species: "Diomedea exulans",
@@ -352,7 +352,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/WOEAFQRMUD/XC293087-Diomedea%20exulans151120_T254.mp3",
     },
     {
-      id: 2,
+      id: 52,
       nav: "Морские птицы",
       name: "Олуша",
       species: "Sula nebouxii",
@@ -363,7 +363,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/YHKQPPJDVP/XC411507-171217_1491%20BF%20Booby%205ft%20IDLP%201230%20mp3%20amp.mp3",
     },
     {
-      id: 3,
+      id: 53,
       nav: "Морские птицы",
       name: "Буревестник",
       species: "Puffinus griseus",
@@ -374,7 +374,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/XQEVNREHJY/SHEARWATER%20Christmas%20Island_04_Motu_Isla%20de%20Pascua-Easter%20Island_CH_4MAR03_Alvaro%20Jaramillo.mp3",
     },
     {
-      id: 4,
+      id: 54,
       nav: "Морские птицы",
       name: "Пеликан",
       species: "Pelecanus",
@@ -385,7 +385,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/XAMHIHFTZG/XC331138-call1.mp3",
     },
     {
-      id: 5,
+      id: 55,
       nav: "Морские птицы",
       name: "Пингвин",
       species: "Aptenodytes forsteri",
@@ -396,7 +396,7 @@ const birdsData = [
         "https://www.xeno-canto.org/sounds/uploaded/OOECIWCSWV/XC449827-LS100829%20King%20Penguin%20call%20A.mp3",
     },
     {
-      id: 6,
+      id: 56,
       nav: "Морские птицы",
       name: "Чайка",
       species: "Larus argentatus",
